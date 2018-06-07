@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">wonderlust</string>
+    <string name="title"><b>Wanderlust - Discover your own world.........</b></string>
+    <string name="phonenumber">7257264882</string>
+    <string name="website">www.wanderlust.com</string>
+    <string name="location">Nanital road,Uttarakhand </string>
+    <string name="time"> Open:Closes 9:00pm</string>
+    <string name="mail">wanderlust@gmail.com</string>
+</resources>
